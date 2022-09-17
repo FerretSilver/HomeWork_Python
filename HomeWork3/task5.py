@@ -16,3 +16,4 @@ for i in range (k):
     a, b = b, a - b
     
 print(f'Для {k} список будет выглядеть так: {fibo_list}')
+
